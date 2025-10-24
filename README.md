@@ -13,7 +13,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jaschrs&show_icons=true&theme=midnight-purple" />
 </a>
 <a href="https://github.com/jaschrs/convoychat">
-  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaschrs&card_width=500&theme=midnight-purple" />
+  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaschrs&card_width=200&theme=midnight-purple" />
 </a>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=jaschrs&theme=midnight-purple)
