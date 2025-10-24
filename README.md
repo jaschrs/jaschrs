@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 🎓 I'm a Computer Science student passionate about software development, backend systems, and automation.  
 📫 How to reach me: jasperjchristian22@gmail.com | [LinkedIn](https://www.linkedin.com/in/jasper-christian/)
