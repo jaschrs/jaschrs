@@ -18,7 +18,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=jaschrs&theme=midnight-purple)
 
-![Snake animation](https://github.com/YourUsername/YourUsername/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/jaschrs/jaschrs/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 <!--
