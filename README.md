@@ -18,8 +18,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=jaschrs&theme=midnight-purple)
 
-![Snake animation](https://raw.githubusercontent.com/jaschrs/jaschrs/output/github-contribution-grid-snake-dark.svg)
-
 </div>
 <!--
 **jaschrs/jaschrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
