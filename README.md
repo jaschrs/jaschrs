@@ -16,7 +16,6 @@
   <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaschrs&card_width=200&theme=slateorange" />
 </a>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jaschrs&theme=slateorange)
 
 </div>
 <!--
